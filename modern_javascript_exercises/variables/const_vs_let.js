@@ -7,6 +7,6 @@ function countThePeople() {
   return count;
 }
 
-console.log(countThePeople()); // <---- uncomment me!
+console.log(countThePeople());
 
 
